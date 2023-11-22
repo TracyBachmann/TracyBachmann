@@ -6,4 +6,4 @@
 - 📫 tracy.bachmann68@gmail.com
 - :cat2: Team chat
 
-![alt text](Assistant développeur web.jpg)
+![Mon assistant personnel](Assistant_développeur_web.jpg)
