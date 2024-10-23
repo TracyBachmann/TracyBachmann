@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-- 📚 Tout récemment sortie de=formation [Développeur Web et Web Mobile (DWWM) chez O'clock](https://oclock.io/).
+- 📚 Tout récemment sortie de formation [Développeur Web et Web Mobile (DWWM) chez O'clock](https://oclock.io/).
 - 💻 Technologies : HTML, CSS, PHP, JavaScript, React, Symfony, Laravel... Et plus encore !
 - 📧 Contact : [tracy.bachmann68@gmail.com](mailto:tracy.bachmann68@gmail.com)
 - 🐱 Team chat
