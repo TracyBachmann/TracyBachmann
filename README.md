@@ -2,8 +2,9 @@
 
 Bienvenue sur mon profil GitHub !
 
-- 📚 Tout récemment sortie de formation [Développeur Web et Web Mobile (DWWM) chez O'clock](https://oclock.io/).
-- 💻 Technologies : HTML, CSS, PHP, JavaScript, React, Symfony, Laravel... Et plus encore !
+- 📚 Actuellement en formation [Concepteur Développeur d'Applications chez M2i Formation](https://m2iformation.com)
+- 💼 En poste : Consultante LaFabriQ chez Qwerio
+- 💻 Technologies : HTML, CSS, PHP, JavaScript, React, Symfony, Laravel, C#, .NET, Power Platform, Angular... Et plus encore !
 - 📧 Contact : [tracy.bachmann68@gmail.com](mailto:tracy.bachmann68@gmail.com)
 - 🐱 Team chat
 
